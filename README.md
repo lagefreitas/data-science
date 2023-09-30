@@ -2,7 +2,7 @@
 
 ### Introduction to Exploratory Data Analysis
 
-- (Brazilian Portuguese) _Introdução à Análise Exploratória de Dados_ [Jupyter notebook](https://github.com/lagefreitas/data-science/blob/764e024aea8965f4d2ca9ebeb7943abefff7d78f/introducao-AED.ipynb)
+- (Brazilian Portuguese) _Introdução à Análise Exploratória de Dados_ [Jupyter notebook](https://github.com/lagefreitas/data-science/blob/main/introducao-AED.ipynb)
 
 
 ### Non-linear Regression in Law
